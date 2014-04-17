@@ -1,0 +1,5 @@
+python-backports.ssl-match-hostname (3.4.0.2-1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Sebastien Badia <seb@sebian.fr>  Tue, 08 Apr 2014 05:26:08 +0200
